@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalogue</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav>
+    <div class="container">
+      <a href="#" class="brand">Book Catalogue</a>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#signup">Sign Up</a></li>
+        <li><a href="#login">Login</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <main>
+    <div class="container">
+      <h1>Books</h1>
+
+      <!-- Search and Filters -->
+      <div class="filters">
+        <label for="sort">Sort by:</label>
+        <select id="sort">
+          <option value="rating-high">Highest Rating</option>
+          <option value="rating-low">Lowest Rating</option>
+          <option value="complexity-beginner">Beginner</option>
+          <option value="complexity-medium">Medium</option>
+          <option value="complexity-hard">Hard</option>
+        </select>
+
+        <!-- Filter Inputs -->
+        <input type="text" id="filter-title" placeholder="Search by Title" />
+        <input type="text" id="filter-author" placeholder="Search by Author" />
+        <input type="text" id="filter-genre" placeholder="Search by Genre" />
+      </div>
+
+      <!-- Book list -->
+      <div id="book-list" class="book-list"></div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Book Catalogue. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

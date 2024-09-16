@@ -1,0 +1,75 @@
+[
+    {
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "genre": "Mystery",
+      "year": 1892,
+      "rating": 4.9,
+      "complexity": "beginner",
+      "coverImage": "https://covers.openlibrary.org/b/id/8221256-L.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "rating": 4.6,
+      "complexity": "medium",
+      "coverImage": "https://covers.openlibrary.org/b/id/8231850-L.jpg"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "rating": 4.3,
+      "complexity": "hard",
+      "coverImage": "https://covers.openlibrary.org/b/id/8118343-L.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Science Fiction",
+      "year": 1949,
+      "rating": 4.7,
+      "complexity": "hard",
+      "coverImage": "https://covers.openlibrary.org/b/id/8228370-L.jpg"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Historical Fiction",
+      "year": 1925,
+      "rating": 4.4,
+      "complexity": "medium",
+      "coverImage": "https://covers.openlibrary.org/b/id/8225266-L.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Drama",
+      "year": 1960,
+      "rating": 4.8,
+      "complexity": "beginner",
+      "coverImage": "https://covers.openlibrary.org/b/id/8222001-L.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Drama",
+      "year": 1951,
+      "rating": 4.1,
+      "complexity": "medium",
+      "coverImage": "https://covers.openlibrary.org/b/id/8225697-L.jpg"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "year": 1932,
+      "rating": 4.5,
+      "complexity": "hard",
+      "coverImage": "https://covers.openlibrary.org/b/id/8234896-L.jpg"
+    }
+  ]
+  
